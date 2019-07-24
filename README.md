@@ -9,5 +9,6 @@ Contents:
    - Snake Game
    - Minesweeper
 
-Source repo:
+Source repos:
 https://github.com/g0t0wasd/python
+https://github.com/jganzabal/tic-tac-toe-python-notebook-game
