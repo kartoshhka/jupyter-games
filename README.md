@@ -1,7 +1,7 @@
 Jupyter Games
 ======
 
-Examples of games that can be ran with Jupyter Notebook.
+Examples of games that can be run with Jupyter Notebook.
 
 Contents: 
 
