@@ -8,6 +8,7 @@ Contents:
    - Pong game
    - Snake Game
    - Minesweeper
+   - Tic tac toe
 
 Source repos:
 
